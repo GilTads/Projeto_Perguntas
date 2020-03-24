@@ -1,6 +1,6 @@
 # projeto_perguntas
 
-A new Flutter project.
+Projeto piloto no aprendizado do framework Flutter
 
 ## Getting Started
 
